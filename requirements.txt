@@ -4,4 +4,4 @@ pandas
 certifi
 pymongo == 4.3.3
 
-# -e .      ## This '-e .' refers to the setup.py file while we execute requirements.txt file
+# -e .     ## This '-e .' refers to the setup.py file while we execute requirements.txt file
