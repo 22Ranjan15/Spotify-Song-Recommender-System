@@ -14,7 +14,6 @@ class CustomException(Exception):
                     self.file_name, self.lineno, str(self.error_message)
                 )
 
-
 if __name__=='__main__':
     try:
         logger.logging.info("Enter the try block")
